@@ -1,0 +1,24 @@
+Adobe
+Apple
+Apple Computer
+Application Data
+D01_MicroApps
+ElevatedDiagnostics
+EmieBrowserModeList
+EmieSiteList
+EmieUserList
+fontconfig
+gegl-0.2
+Google
+gtk-2.0
+History
+Macromedia
+Microsoft
+Microsoft Games
+Mozilla
+NeoSmart_Technologies
+pangu
+Programs
+Temp
+Temporary Internet Files
+VirtualStore

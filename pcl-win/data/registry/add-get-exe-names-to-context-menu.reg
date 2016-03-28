@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\runas]
+@="Get Executable Names"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\*\shell\runas\command]
+@="cmd.exe /c getExeNames.cmd"
+"IsolatedCommand"="cmd.exe /c getExeNames.cmd"
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas]
+@="Get Executable Names"
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
+@="cmd.exe /c getExeNames.cmd"
+"IsolatedCommand"="cmd.exe /c getExeNames.cmd"

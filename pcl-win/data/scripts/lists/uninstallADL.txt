@@ -1,0 +1,3 @@
+ArcadeFrontier\uninstaller.exe
+GreatArcadeHits\GAHUninstaller.exe
+WinnerDM\uninstall.exe

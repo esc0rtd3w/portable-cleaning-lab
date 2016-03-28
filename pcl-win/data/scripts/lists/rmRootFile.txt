@@ -1,0 +1,3 @@
+monitor.exe
+monitorsvc.exe
+SecurityScanner.dll

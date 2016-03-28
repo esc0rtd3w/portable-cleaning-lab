@@ -1,0 +1,26 @@
+--------
+ISSUE
+--------
+
+Auto Mode -> If no internet connection, the update process for cleaning modules will loop until a connection is made
+
+
+--------
+ISSUE
+--------
+
+Running PCL as SYSTEM fails with unpacking modules and not returning the correct paths
+
+
+--------
+ISSUE
+--------
+Hitting spacebar key on menu if typed as option, or with option accidentally will crash the PCL after pressing enter
+
+
+--------
+ISSUE
+--------
+Virtual Drive letter does not refresh if another drive is plugged in and takes the same drive letter after the PCL has been loaded
+
+

@@ -1,0 +1,18 @@
+AVG SafeGuard toolbar\Uninstall.exe
+AVG Secure Search\Uninstall.exe
+{FBF3739B-717D-4429-BCEB-98D514E65F29}\Best Buy pc app Setup.exe
+Boost\uninstall.exe
+Dogpile Bundle Toolbar\Uninst.exe
+FrostWire 5\Uninstall.exe
+IObit\Surfing Protection\unins000.exe
+Liveistream\uninstall.exe
+PC Health Kit\unins000.exe
+Right Backup\unins000.exe
+The Weather Channel\The Weather Channel App\uninstall.bat
+Torch\Uninstall.exe
+Video Download Converter\unins000.exe
+WildGames\uninstall.exe
+WildTangent Games\App\Uninstall.exe
+XoftSpySE6\uninstall.exe
+Yahoo!\Common\unyt_wrap.exe
+YouTube Accelerator\UNWISE.EXE

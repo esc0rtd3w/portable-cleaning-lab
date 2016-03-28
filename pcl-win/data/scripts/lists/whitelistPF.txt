@@ -1,0 +1,97 @@
+Adobe
+Apple Software Update
+AVS4YOU
+Banshee Screamer Alarm
+Bonjour
+BreakPoint Software
+Common Files
+D01 MicroApps
+DVD Maker
+Ext2Fsd
+FileZilla FTP Client
+GIMP 2
+Google
+Hewlett-Packard
+IDT
+InCode Solutions
+Intel
+Internet Explorer
+iPod
+iTunes
+Java
+LibreOffice 4
+Microsoft Expression
+Microsoft Games
+Microsoft Visual Studio 8
+Microsoft.NET
+Mozilla Firefox
+Mozilla Maintenance Service
+MSBuild
+Nero
+Notepad++
+qBittorrent
+Reference Assemblies
+SAMSUNG
+Sandboxie
+stinger
+Synaptics
+TeraCopy
+Universal Extractor
+Unlocker
+VideoLAN
+Windows Defender
+Windows Journal
+Windows Mail
+Windows Media Player
+Windows NT
+Windows Photo Viewer
+Windows Portable Devices
+Windows Sidebar
+WinRAR
+Adobe
+Apple Software Update
+BitTorrent
+Bonjour
+CCleaner
+Common Files
+DVD Maker
+Essentials Codec Pack
+Google
+Intel
+Internet Explorer
+iPod
+iTunes
+Media Mushroom Limited
+Microsoft Games
+Microsoft Games for Windows - LIVE
+Microsoft Office
+Microsoft Silverlight
+Microsoft Visual Studio
+Microsoft Visual Studio 8
+Microsoft Works
+Microsoft.NET
+MotioninJoy
+Mozilla Firefox
+MSBuild
+MSXML 4.0
+Nero
+PowerISO
+QuickTime
+Realtek
+Realtek WLAN Driver
+Reference Assemblies
+Rockstar Games
+Skype
+SpywareBlaster
+TOSHIBA
+Windows Defender
+Windows Journal
+Windows Mail
+Windows Media Player
+Windows NT
+Windows Photo Viewer
+Windows Portable Devices
+Windows Sidebar
+WinRAR
+Wondershare
+Yahoo!

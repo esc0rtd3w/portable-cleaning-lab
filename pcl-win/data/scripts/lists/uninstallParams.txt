@@ -1,0 +1,4 @@
+unins000.exe /s
+*unins*.exe /s
+*unins*.exe /x
+*unins*.exe /uninstall

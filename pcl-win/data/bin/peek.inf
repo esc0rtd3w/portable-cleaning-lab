@@ -1,0 +1,93 @@
+[version]
+signature="$CHICAGO$"
+SetupClass=BASE
+
+[DefaultInstall]
+CopyFiles=ThisDll.sys.install
+AddReg=ThisDll.Add.Reg,ThisDll.Uninst.Reg,ThisDll.Settings.Reg
+
+[DefaultInstall.ntx86]
+CopyFiles=ThisDll.sys.install
+AddReg=ThisDll.Add.Reg,ThisDll.Uninst.Reg.NT,ThisDll.Settings.Reg
+
+
+[TargetInstall]
+CopyFiles=ThisDll.sys.install
+AddReg=ThisDll.Add.Reg,ThisDll.Uninst.Reg,ThisDll.Settings.Reg
+
+[Target_remove]
+DelFiles=ThisDll.sys.install
+DelReg=ThisDll.Add.Reg,ThisDll.Uninst.Reg,ThisDll.Settings.Reg
+
+[ThisDll.Add.Reg]
+HKCR,CLSID\{147C4760-0B2C-11D0-BD4A-00001C5002DB},,,"%Target_DESC%"
+
+HKCR,CLSID\{147C4760-0B2C-11D0-BD4A-00001C5002DB}\InProcServer32,,,"%11%\%SubDir%\%ThisDll%"
+HKCR,CLSID\{147C4760-0B2C-11D0-BD4A-00001C5002DB}\InProcServer32,ThreadingModel,,"Apartment"
+
+HKCR,*\ShellEx\ContextMenuHandlers\PeekContext,,,"%GUID%"
+
+HKLM,Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Approved,"%GUID%",,"Peek Text Extraction"
+
+[ThisDll.Uninst.Reg]
+HKLM,SoftWare\Microsoft\Windows\CurrentVersion\Uninstall\Peek,,,
+HKLM,SoftWare\Microsoft\Windows\CurrentVersion\Uninstall\Peek,"DisplayName",,%Target_Uninst_DESC%
+HKLM,SoftWare\Microsoft\Windows\CurrentVersion\Uninstall\Peek,"UninstallString",,"RunDll setupx.dll,InstallHinfSection Target_remove 4 %11%\%SubDir%\peek.inf"
+
+
+[ThisDll.Uninst.Reg.NT]
+HKLM,SoftWare\Microsoft\Windows\CurrentVersion\Uninstall\Peek,,,
+HKLM,SoftWare\Microsoft\Windows\CurrentVersion\Uninstall\Peek,"DisplayName",,%Target_Uninst_DESC%
+HKLM,SoftWare\Microsoft\Windows\CurrentVersion\Uninstall\Peek,"UninstallString",,"RunDll32.exe syssetup.dll,SetupInfObjectInstallAction Target_remove 4 %11%\%SubDir%\peek.inf"
+
+
+[ThisDll.Settings.Reg]
+HKLM,Software\Aries\Peek,,,
+HKLM,Software\Aries\Peek\"Binary Files",,,
+HKLM,Software\Aries\Peek\"Binary Files","Character Set",,"\t\n\r 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+HKLM,Software\Aries\Peek\"Binary Files","Delimiter Set",,".!?,;:-\\{}[]()/+*~°^'%%#<>|"
+HKLM,Software\Aries\Peek\"Binary Files","Character Count",,"4"
+HKLM,Software\Aries\Peek\"Binary Files","Delimiter Count",,"1"
+HKLM,Software\Aries\Peek\"Binary Files","Unicode",,"2"
+HKLM,Software\Aries\Peek\"Binary Files","Display Offset",,"1"
+HKLM,Software\Aries\Peek\"Binary Files","Help String",,"ANSI/UNICODE extraction /w file offset"
+
+HKLM,Software\Aries\Peek\Standard,,,
+HKLM,Software\Aries\Peek\Standard,"Character Set",,"\t\n\r 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+HKLM,Software\Aries\Peek\Standard,"Delimiter Set",,".!?,;:-\\{}[]()/+*~°^'%%#<>|"
+HKLM,Software\Aries\Peek\Standard,"Character Count",,"4"
+HKLM,Software\Aries\Peek\Standard,"Delimiter Count",,"1"
+HKLM,Software\Aries\Peek\Standard,"Unicode",,"0"
+HKLM,Software\Aries\Peek\Standard,"Display Offset",,"0"
+HKLM,Software\Aries\Peek\Standard,"Help String",,"Standard ANSI text extraction"
+
+HKLM,Software\Aries\Peek\Unicode,,,
+HKLM,Software\Aries\Peek\Unicode,"Character Set",,"\t\n\r 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
+HKLM,Software\Aries\Peek\Unicode,"Delimiter Set",,".!?,;:-\\{}[]()/+*~°^'%%#<>|"
+HKLM,Software\Aries\Peek\Unicode,"Character Count",,"4"
+HKLM,Software\Aries\Peek\Unicode,"Delimiter Count",,"1"
+HKLM,Software\Aries\Peek\Unicode,"Unicode",,"1"
+HKLM,Software\Aries\Peek\Unicode,"Display Offset",,"0"
+HKLM,Software\Aries\Peek\Unicode,"Help String",,"Standard UNICODE text extraction"
+
+
+
+[ThisDll.sys.install]
+peek.dll
+peek.inf
+
+[DestinationDirs]
+ThisDll.sys.install=11,%SubDir%
+
+[SourceDisksNames]
+55="Peek Context 1.1",,
+
+[SourceDisksFiles]
+%ThisDll%=55
+
+[Strings]
+Target_DESC = "Peek Text Extraction Shell Extension"
+Target_Uninst_DESC = "Peek Text Extraction Shell Extension"
+SubDir = "ShellExt"
+ThisDll = "peek.dll"
+GUID = "{147C4760-0B2C-11D0-BD4A-00001C5002DB}"

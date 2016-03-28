@@ -1,0 +1,17 @@
+avant.exe
+adownloader.exe
+avantvw.exe
+chrome.exe
+dragon.exe
+icedragon.exe
+iexplore.exe
+firefox.exe
+flock.exe
+k-meleon.exe
+Maxthon.exe
+MxUp.exe
+navigator.exe
+opera.exe
+safari.exe
+seamonkey.exe
+torch.exe

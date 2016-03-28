@@ -1,0 +1,1 @@
+Crossbrowse\Crossbrowse\Application\39.5.2171.95\Installer\setup.exe --uninstall --system-level

@@ -1,0 +1,3 @@
+@echo off
+
+MsiExec.exe /I{AD0BF9C0-E5E6-4FF4-8C6A-68CC42B0797D}

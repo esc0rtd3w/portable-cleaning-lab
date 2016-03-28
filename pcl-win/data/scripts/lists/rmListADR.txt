@@ -1,0 +1,49 @@
+acccore
+ap_logs
+Babylon
+Betcat
+Claro
+Claro LTD
+Compete
+DefaultTab
+File Scout
+FirefoxToolbar
+IDMSQ
+Iminent
+InstallX Search Protect for Yahoo
+iSafe
+KeepMySettingsX
+Open Download Manager
+OpenSoftwareUpdater
+Optimizer Pro
+PC Tech Hotline
+Pro PC Cleaner
+Smart PC Cleaner
+SoftGrid Client
+SpeedAnalysis2
+Strongvault
+Uniblue
+ValueApps
+Weatherbug
+WebApp
+WinBatch
+DriverCure
+IminentToolbar
+Leader Technologies
+OpenSoftwareUpdater
+ShopAtHome
+Systweak
+AnyProtectEx
+Fingertapps
+freegames4357
+GoldenGate
+PCDr
+ShopAtHome
+SoftwareUpdater
+Taplika
+USTechSupport
+LolClient
+Rainmaker Software Group LLC
+Driver Pro
+Awesomium
+DMCache

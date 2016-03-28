@@ -1,0 +1,55 @@
+-----------------
+TODO LIST ROADMAP
+-----------------
+
+- Add wait bar to auto mode scanners
+
+- Add check for safe mode when triggering Disable UAC. UAC does not load in safe mode
+
+- Fix md5 creation and allow individual files to be updated
+
+- Analyze reg dumps menu option under forensics
+
+- Check "tag" and "fixtype" orphaned variable usage
+
+- Add custom text as an option for auto mode popup waiting box
+
+- Delete baddie bookmarks from browser
+
+- Check more startup entries
+
+- Add cookie support
+
+- Exit option from sub-sub menu only returns to main expert menu
+
+- Transfer dumps not working in Vista??
+
+- Add custom mini secure browser
+
+- Detect WinPE mode and change root drive letter accordingly (default X:)
+
+- Force uninstall-loop script to try default silent switches first
+
+- Add options to Clone Menu for cloning PCL to archives (ISO, RAR, ZIP, etc)
+
+- Change scripting "COLUMN" size depending on resolution detected
+
+- Use INNO internally so the PCL can make a setup out of itself
+
+- Fix IPv4/IPv6 issue with parsing online/offline status
+
+- Add INI files for status of working Scan/Update/Repack options and other configurable items
+
+- Add all user accounts to temp cleaning and others to use globally
+
+- Add check for installed modules to run the local version if it exists or give options (run local, pcl, uninstall, etc)
+
+- Fix menu items running off screen in lower res situations
+
+- Add "last update", size, names, and other useful info to scan/update/repack menu
+
+- Do calculations from "last update" variable to suggest updating or suppressing it
+
+- Fix SafeMSI dialog box from staying active in Auto Mode for uninstall loops while in safe mode
+
+- Fix "mountiso" script for hidden keyword

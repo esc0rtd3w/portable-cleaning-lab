@@ -1,0 +1,43 @@
+"UninstallString"="C:\ProgramData\{FBF3739B-717D-4429-BCEB-98D514E65F29}\Best Buy pc app Setup.exe\" REMOVE=TRUE MODIFY=FALSE"
+"UninstallString"="C:\ProgramData\{FBF3739B-717D-4429-BCEB-98D514E65F29}\Best Buy pc app Setup.exe"
+
+"UninstallString"="C:\Program Files (x86)\AVG SafeGuard toolbar\UNINSTALL.exe /PROMPT /UNINSTALL"
+"UninstallString"="C:\Program Files (x86)\IDMSQ\uninst.exe"
+"UninstallString"="C:\Program Files (x86)\MyPC Backup\uninst.exe"
+"UninstallString"="C:\Program Files (x86)\System Optimizer Pro\uninst.exe"
+
+"UninstallString"="C:\Program Files\Giraffic\GirafficUninstall.exe"
+"UninstallString"="C:\Program Files\Alnaddy.com\alnaddyToolbar\1.6.9.16\uninstall.exe\""
+"UninstallString"="C:\Program Files\Savings Sidekick\Uninstall.exe"
+"UninstallString"="C:\Program Files\Veoh Networks\VeohWebPlayer\uninst.exe\""
+"UninstallString"="C:\Program Files\57F737B4-ACBE-4AFB-87B3-6DC08B80F484\uninstaller.exe -source=\"57F737B4-ACBE-4AFB-87B3-6DC08B80F484\" -clean=1 -remove=\"739027FD-0200-4F32-A9AC-8E4058065C1A D12C40DB-CD7D-4D86-9285-5E2FE23693E4 E6B105B8-1F65-4428-9397-1DFD8A03B94D 3566FB70-E722-4182-8266-815EAE862998 9B65F9A3-9D24-452A-B6EF-1457D65E4259 6DDE8071-E4BA-461B-8A96-990DFAA0EBD1 9B5C9A87-ED19-4510-A63F-A23FB580CA75 BFB5F375-2733-465B-B3AC-842F6A6BE527 DB8B6107-7401-470E-9203-F83DF395F044 813BA625-B0FA-48D8-9B75-59759C88C219 6E810AB6-F34E-49A3-A93F-9E503660F718 286B09BC-F9BD-4F71-B767-2AE0CE2F8CE5\" "
+"UninstallString"="C:\Program Files\Browsersafeguard\uninstall.BrowserSafeguard.exe\" /u=true /UserID=4f04e7b0-f4d8-4445-9d2e-521358542738 /SourceID=cpx|cpx_appupdater-US /ImplementationID=browsersafeguard-rockettab-ptn /UC=20140629"
+"UninstallString"="C:\\PROGRA~1\SearchProtect\Main\bin\uninstall.exe\" /S"
+
+"QuietUninstallString"="C:\Program Files\findopolis\findopolisuninstall.exe /S"
+"QuietUninstallString"="C:\Program Files\Bitcasa\unins000.exe\" /SILENT"
+"QuietUninstallString"="C:\Program Files\HulaToo\HulaTooUn.exe REP_"
+"QuietUninstallString"="C:\Program Files\HulaToo\\HulaTooUn.exe REP_BD_"
+
+"QuietUninstallString"="C:\Program Files (x86)\Sk_Enabler\uninstall.exe\" /S /FULLPATH=\"C:\Program Files (x86)\Sk_Enabler\""
+"QuietUninstallString"="C:\Program Files (x86)\WebSearch\uninstall.exe\" /S /FULLPATH=\"C:\Program Files (x86)\WebSearch\""
+"QuietUninstallString"="C:\\Program Files (x86)\\App Bud\\AppBuduninstall.exe /S"
+"QuietUninstallString"="C:\Program Files (x86)\crimsolite\crimsoliteUn.exe REP_"
+"QuietUninstallString"="C:\Program Files (x86)\crimsolite\crimsoliteUn.exe REP_BD_"
+
+"SilentUninstall"="C:\ProgramData\CostMin\zQpsXCV37.exe\" /s /n /i:\"ExecuteCommands;UninstallCommands\" \"\""
+
+
+"QuietUninstallString"="C:\Windows\system32\RUNDLL32.EXE\" \"C:\PROGRA~1\SUPPOR~1\SUPPOR~1.DLL\",_uninstall /un /uq"
+
+
+"UninstallString"="C:\Users\admin\AppData\Local\2427\a11227.exe /uninstall"
+
+
+
+PUP
+
+
+"UninstallString"="C:\Program Files\My Dell\uninstaller.exe /arp"
+
+"QuietUninstallString"="C:\Program Files\Updater By SweetPacks\unins000.exe\" /SILENT"

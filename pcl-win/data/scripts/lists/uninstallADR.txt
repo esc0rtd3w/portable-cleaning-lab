@@ -1,0 +1,4 @@
+DefaultTab\DefaultTab\uninstalldt.exe
+Move Networks\uninstall.exe
+Search Protection\Uninstall.exe
+VOPackage\uninstall.exe

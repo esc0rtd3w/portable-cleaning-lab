@@ -1,0 +1,1 @@
+C:\Windows\system32\RUNDLL32.EXE" "C:\PROGRA~1\SW-BOO~1\ASSIST~1.DLL",_uninstall /un /uq
