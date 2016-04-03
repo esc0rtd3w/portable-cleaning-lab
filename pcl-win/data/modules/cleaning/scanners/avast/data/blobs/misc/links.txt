@@ -1,0 +1,7 @@
+Definitions Direct:
+http://files.avast.com/files/latest/400.vps
+
+Header Info
+-----------
+User-Agent: aswMBR
+Host: files.avast.com

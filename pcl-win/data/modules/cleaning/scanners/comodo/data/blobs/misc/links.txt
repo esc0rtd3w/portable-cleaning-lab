@@ -1,0 +1,8 @@
+Page to parse:
+https://www.comodo.com/products/free-products.php
+
+Scanner:
+http://cdn.download.comodo.com/cis/download/installs/2000/partners/cav_installer_5964_b8.exe
+
+Comodo Cleaning Essentials:
+http://download.comodo.com/cce/download/setups/cce_1.6.183539.73_x32.zip
