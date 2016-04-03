@@ -1,0 +1,5 @@
+SUPERAntiSpyware.exe
+RUNSAS.EXE
+SASTask.exe
+SASCore.exe
+SASCore64.exe

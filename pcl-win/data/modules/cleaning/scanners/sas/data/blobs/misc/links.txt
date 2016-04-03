@@ -1,0 +1,18 @@
+Page to parse:
+
+Direct:
+http://cdn.superantispyware.com/SUPERAntiSpyware.exe
+
+
+Definitions XML to parse:
+http://cdn.superantispyware.com/appdata/sas/public/20000002.XML
+
+Header Info
+-----------
+Connection: Keep-Alive
+User Agent: SASDef_GetDescriptor
+Host: cdn.superantispyware.com
+
+New Definition Example Filename (From XML):
+
+http://cdn.superantispyware.com/appdata/sas/public/new.11721.SAS

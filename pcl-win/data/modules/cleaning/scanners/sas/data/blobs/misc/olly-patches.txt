@@ -1,0 +1,78 @@
+Bypass 32 Bit Nag for 64 Bit Machine
+
+
+00533EF4  |. /74 25         JE SHORT 00533F1B
+00533EF6  |. |6A 14         PUSH 14                                  ; /Style = MB_YESNO|MB_ICONHAND|MB_APPLMODAL
+00533EF8  |. |68 18465E00   PUSH 005E4618                            ; |Title = "Program Version Error"
+00533EFD  |. |68 70455E00   PUSH 005E4570                            ; |Text = "This version of SUPERAntiSpyware is designed for 32-bit versions of Windows. Please reinstall for best results.
+
+Do you wish to continue running the wrong version?"
+00533F02  |. |53            PUSH EBX                                 ; |hOwner => NULL
+00533F03  |. |FF15 4C065C00 CALL NEAR DWORD PTR DS:[<&USER32.Message>; \MessageBoxA
+00533F09  |. |83F8 07       CMP EAX,7
+00533F0C  |. |75 0D         JNZ SHORT 00533F1B
+00533F0E  |. |8D43 01       LEA EAX,DWORD PTR DS:[EBX+1]
+00533F11  |. |5B            POP EBX
+00533F12  |. |81C4 D4110000 ADD ESP,11D4
+
+
+Disable Splash Screen
+
+004BAC94  |. /0F84 08010000 JE 004BADA2
+004BAC9A  |> |55            PUSH EBP
+004BAC9B  |. |57            PUSH EDI
+004BAC9C  |. |8D5424 14     LEA EDX,DWORD PTR SS:[ESP+14]
+004BACA0  |. |52            PUSH EDX                                 ; /Buffer
+004BACA1  |. |6A 18         PUSH 18                                  ; |BufSize = 18 (24.)
+
+.......
+
+004BAD11  |. |894424 48     MOV DWORD PTR SS:[ESP+48],EAX            ; |
+004BAD15  |. |895C24 4C     MOV DWORD PTR SS:[ESP+4C],EBX            ; |
+004BAD19  |. |895C24 50     MOV DWORD PTR SS:[ESP+50],EBX            ; |
+004BAD1D  |. |C74424 54 1C7>MOV DWORD PTR SS:[ESP+54],005D7B1C       ; |ASCII "SASSPLASHSCREEN"
+
+
+Disable System Tray
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Notes
+
+005341D2   .  E8 79E6F2FF   CALL 00462850                            ; \SUPERAnt.00462850
+005341D7   .  68 F4445E00   PUSH 005E44F4                            ; /AtomName = "SSUPDATE_RebootRequired"
+005341DC   .  FF15 BC025C00 CALL NEAR DWORD PTR DS:[<&KERNEL32.Globa>; \GlobalFindAtomA
+005341E2   .  6A 01         PUSH 1                                   ; /Arg3 = 00000001
+005341E4   .  B9 A4456200   MOV ECX,006245A4                         ; |
+005341E9   .  6A 01         PUSH 1                                   ; |Arg2 = 00000001
+005341EB   .  66:85C0       TEST AX,AX                               ; |
+005341EE   .  74 36         JE SHORT 00534226                        ; |
+005341F0   .  68 3F070000   PUSH 73F                                 ; |Arg1 = 0000073F
+005341F5   .  E8 56E6F2FF   CALL 00462850                            ; \SUPERAnt.00462850
+005341FA   .  6A 34         PUSH 34                                  ; /Style = MB_YESNO|MB_ICONEXCLAMATION|MB_APPLMODAL
+005341FC   .  68 E0445E00   PUSH 005E44E0                            ; |Title = "Restart Required"
+00534201   .  68 78445E00   PUSH 005E4478                            ; |Text = "SUPERAntiSpyware must restart Windows to complete the update process.
+
+Would you like to restart now?"
+
+
+
+
+
+
+
