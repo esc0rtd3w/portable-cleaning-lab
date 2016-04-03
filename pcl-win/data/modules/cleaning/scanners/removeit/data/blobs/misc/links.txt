@@ -1,0 +1,13 @@
+Definitions Direct:
+http://www.incodesolutions.com/updr2/files2.htm
+
+Header Info
+-----------
+Accept: Accept: */*
+User Agent: UtilMind HTTPGet
+Host: www.incodesolutions.com
+
+
+The HTML file downloads as "files.dat" from GUI normally.
+
+This file can be downloaded as file.dat" using WGET for bypassing GUI

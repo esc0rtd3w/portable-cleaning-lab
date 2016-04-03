@@ -1,0 +1,14 @@
+Trand Micro System Cleaner [/NOGUI] [<folder>] [/Y] [/?]
+
+/NOGUI No GUI (run in console mode)
+
+<folder> The folder where the tool will begin scanning.
+	 If unspecified, the tool will scan all local hard drives
+
+/NC Disable Automatic Clean
+
+/NS Disable Spyware Scan Mode
+
+/FULLSILENT Disable All Console Outputs, Enable Automatic Clean
+
+/? Display help information

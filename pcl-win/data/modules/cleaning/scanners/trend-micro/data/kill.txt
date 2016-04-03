@@ -1,0 +1,4 @@
+SysClean.com
+sysclean.exe
+vscantm.bin
+tr.bin

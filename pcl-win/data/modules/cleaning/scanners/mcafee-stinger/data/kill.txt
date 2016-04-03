@@ -1,0 +1,3 @@
+stinger32.exe
+stinger64.exe
+Raptor.exe

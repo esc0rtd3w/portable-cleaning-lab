@@ -1,0 +1,5 @@
+Page to parse:
+http://zillya.com/node/22
+
+Direct:
+http://download.zillya.com/ZillyaScanner_en.exe

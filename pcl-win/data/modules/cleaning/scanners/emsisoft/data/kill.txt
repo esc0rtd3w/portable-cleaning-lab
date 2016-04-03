@@ -1,0 +1,7 @@
+a2cmd.exe
+a2emergencykit.exe
+BlitzBlank.exe
+Start BlitzBlank.exe
+Start Commandline Scanner.exe
+Start Emergency Kit Scanner.exe
+start.exe

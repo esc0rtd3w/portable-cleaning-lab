@@ -1,0 +1,146 @@
+Using options to start Console Scanner
+
+You can use numerous options of the command line to configure Dr.Web Console Scanner. They are separated by blanks and begin with the '-' character (hyphen). The full list of options can be viewed by calling the command drweb with the -?, -h or -help options.
+
+The most commonly used options can be grouped as follows:
+
+• scanning area option;
+
+• diagnosing options;
+
+• actions options;
+
+• interface options.
+
+Scanning area options
+
+Scanning area options define what objects are to be scanned for viruses. Dr.Web Console Scanner provides the following scanning area options:
+•	path – specifying the path to the objects which are to be scanned. You can specify several paths;
+•	@[+]<file> – scanning of objects listed in the specified file; the character '+' means that the file should not be deleted after the scanning; this file can contain paths to periodically scanned files and folders or the list of objects that are to be regularly scanned;
+•	sd – recursive search and scanning of files in subfolders, beginning from the current one;
+•	fl – follow the symbolic links for files and folders; links which lead to 'looping' are ignored;
+•	mask - ignoring filename masks.
+
+Diagnosing options
+
+The diagnosing options, which define the types of objects to be scanned, are as follows:
+•	al – scanning of all files on the specified drive or folder;
+•	ar[d/m/r][n] – scanning of files in archives (ARJ, CAB, GZIP, RAR, TAR, ZIP, etc.)
+o	d – deletion;
+o	m – moving;
+o	r – renaming of archives which contain infected objects;
+o	n – disable output of the archive name.
+
+Not only proper archives (for example, *.tar) are understood as archives here, but also their compressed formats (for example, compressed TAR archives *.tar.bz2 and *.tbz);
+•	cn[d/m/r][n] - scanning of files in containers (HTML, RTF, PowerPoint);
+o	d – deletion,
+o	m – moving,
+o	r – renaming of containers which contain infected objects;
+o	n –  disable output of the the container type.
+•	ml[d/m/r][n] - scanning of mail client files
+o	d – deletion;
+o	m – moving;
+o	r – renaming of mail client files which contain infected objects;
+o	n – disable output of the mail client files type.
+•	up[n] - scanning of executable files packed with LZEXE, DIET, PKLITE, EXEPACK
+n - disable output of the packing utility name;
+•	ex – scanning of files, whose names conform to the specified masks (they are set in the FilesTypes string of the configuration file);
+•	ha – heuristic analysis of files, detection of unknown viruses.
+
+Action options
+
+The action options define the actions to be carried out by Console Scanner over infected and suspicious files. Dr.Web Console Scanner provides the following action options:
+•	cu[d/m/r] - curing of infected files
+o	d – deletion;
+o	m - moving;
+o	r - renaming of infected files.
+•	ic[d/m/r] - actions for incurable files
+o	d – deletion;
+o	m – moving;
+o	r – renaming of incurable files.
+•	sp[d/m/r] - actions for suspicious files
+o	d – deletion;
+o	m – moving;
+o	r – renaming of suspicious files.
+•	adw[d/m/r/i] - actions for files containing adware:
+o	d –  deletion;
+o	m –  moving;
+o	r –  renaming;
+o	i –  ignoring.
+•	dls[d/m/r/i] – actions for files containing dialers:
+o	d –  deletion;
+o	m –  moving;
+o	r –  renaming;
+o	i –  ignoring.
+•	jok[d/m/r/i] – actions for files containing jokes:
+o	d –  deletion;
+o	m –  moving;
+o	r –  renaming;
+o	i –  ignoring.
+•	rsk[d/m/r/i] – actions for files containing riskware:
+o	d –  deletion;
+o	m –  moving;
+o	r –  renaming;
+o	i –  ignoring.
+•	hck[d/m/r/i] – actions for files containing hacktools:
+o	d –  deletion;
+o	m –  moving;
+o	r –  renaming;
+o	i –  ignoring.
+
+Interface options
+
+The interface options determine the manner of scan results display. Dr.Web Console Scanner provides the following interface options:
+•	v, version – output of information about product version and anti-virus engine version;
+•	ki - output of information about key and its owner (only in UTF8 Transformation Format);
+•	foreground[yes|no] – launching Console Scanner in the foreground mode or background mode;
+•	ot – output of information on stdout (a standard output on the screen);
+•	oq – disable output of information;
+•	ok – display an 'Ok' message for non-infected files;
+•	log=<file> – log the report to the specified file;
+•	ini=<file> – use an alternative INI file;
+•	lng=<file> – use an alternative language resources file.
+
+Special options
+
+Some options act as the opposite parameter if they end with the character '-'. Such options are:
+
+-ar -cu -ha -ic -fl -ml -ok -sd -sp
+
+For example, when launch scanning by the following command
+
+ drweb -path <path> -ha-
+
+The heuristic analysis, which is enabled by default, will be disabled.
+
+Options enabled by default
+
+The following options are enabled by default if Console Scanner is launched without any additional parameters and the configuration file was not changed:
+
+-ar -ha -fl- -ml -sd
+
+ 
+
+These default options (including archive and packaged files, mail client files, recursive search, heuristics analysis and so on) are considered the most rational for everyday scanning purposes and can be used in most typical cases. If one of the parameters set by default is not required, you can disable it by specifying «–» symbol after it, as it was shown in the example with the -ha option above (heuristic analysis).
+
+Notes on using options
+
+Disabling scanning of archived and packaged files dramatically decreases the security level as viruses are often spread as archives (often self-extracting) in the attachments. Documents of application programs (for example, Word, Excel) are potentially vulnerable to macro viruses and are attached to e-mail messages as archived or packaged files.
+
+When launch Console Scanner with default parameters, infected files are not to be scanned. No action is performed on incurable or suspected files. To instruct Console Scanner to take actions on this objects, specify the conform options (actions options) in the command-line.
+
+You can specify different actions for each specific case, but the following options are considered the most rational:
+•	cu - attempt to cure infected files and system areas without deletion, moving, or renaming;
+•	icd - deletion of incurable files;
+•	spm - moving of suspicious files;
+•	spr - renaming of suspicious files.
+
+Launching Console Scanner with cu- option means that the program is to attempt to restore the original state of the infected object. It is possible only if detected virus is a known virus and the databases contain necessary instructions on curing. If the infected file is seriously damaged, attempt of curing may fail.
+
+If infected files are found inside archives, they will not be cured, deleted, moved, or renamed. To cure such files you must manually unpack archives to the separate folder and instruct Console Scanner to check it by specifying this folder as the command option at the restart.
+
+When Console Scanner is started with icd option specified, it will remove all infected files from the disk. This option is suitable for incurable (irreversibly damaged by a virus) files.
+
+spr option makes Console Scanner replace file extension with another specified extension (for example, *.#?? by default, that is, first extension character is replaced with "#" character). Enable this parameter for files of other operating systems (for example, DOS/Windows) detected heuristically as suspicious. Renaming helps to avoid accidental execution of such files or downloading Word and Excel documents without further scanning in these operating systems and therefore prevents infection.
+
+Moving option spm makes Console Scanner move infected or suspicious files to the Quarantine folder.

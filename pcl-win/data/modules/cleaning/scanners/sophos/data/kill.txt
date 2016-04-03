@@ -1,0 +1,8 @@
+SAV32CLI.exe
+sav32sfx.exe
+native.exe
+SCTBootTasks.exe
+SCTCleanupService.exe
+SVRTcli.exe
+SVRTgui.exe
+SVRTservice.exe

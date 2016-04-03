@@ -1,0 +1,2 @@
+CoreCMD.exe
+ZillyaScanner.exe

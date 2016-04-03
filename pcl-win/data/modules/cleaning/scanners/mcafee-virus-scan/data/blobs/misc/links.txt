@@ -1,0 +1,12 @@
+McAfee VirusScan Command Line for Windows:
+http://b2b-download.mcafee.com/products/evaluation/vcl/w32/vscl-w32-604-e.zip
+
+McAfee VirusScan Command Line for Linux x86:
+http://b2b-download.mcafee.com/products/evaluation/vcl/lnx/vscl-l32-604-e.tar.gz
+
+McAfee VirusScan Command Line for Linux x64:
+http://b2b-download.mcafee.com/products/evaluation/vcl/l64/vscl-l64-604-e.tar.gz
+
+DAT Updates for Command Line Scanners:
+ftp://ftp.mcafee.com/commonupdater/avvdat-XXXX.zip
+ftp://ftp.mcafee.com/commonupdater/avvdat-7602.zip

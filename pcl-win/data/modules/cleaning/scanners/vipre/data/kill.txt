@@ -1,0 +1,4 @@
+sbbd.exe
+SBRC.exe
+updateTemp.exe
+VipreRescueScanner.exe

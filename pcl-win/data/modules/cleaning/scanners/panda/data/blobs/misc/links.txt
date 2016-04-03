@@ -1,0 +1,26 @@
+Page to parse:
+http://www.pandasecurity.com/mediacenter/products/panda-antivirus-command-line-scanner-9-5-1-2/
+
+Direct Scanner:
+http://research.pandasecurity.com/blogs/images/pavcl.zip
+
+Direct Definitions:
+http://acs.pandasoftware.com/member/pavsig/pav.zip
+
+
+
+OTHER
+------
+
+Free Edition
+Stub: http://acs.pandasoftware.com/Panda2015/FREEAV/174150/PANDAFREEAV.exe
+Direct: http://acs.pandasoftware.com/Panda2015/FREEAV/Promo/FREEAV.exe
+
+Free Edition
+Stub: http://acs.pandasoftware.com/Panda2015/AP/173956/PANDAAP15.exe
+Direct: http://acs.pandasoftware.com/Panda2015/AP/Promo/AP15.exe
+
+Gold Edition
+Stub: http://acs.pandasoftware.com/Panda2015/GL/Promo/GL15.exe
+Direct: http://acs.pandasoftware.com/Panda2015/AP/Promo/AP15.exe
+

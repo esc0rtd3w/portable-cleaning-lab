@@ -1,0 +1,10 @@
+Page to parse:
+http://www.eset.com/us/download/home/detail/family/2/?trl=ea
+http://www.eset.com/us/download/thank-you-eav/file/11736/?trl=ea
+
+Direct Stub:
+http://download.eset.com/special/live-installer/us/eset_nod32_antivirus_live_installer.exe
+
+Direct From Stub:
+http://download.eset.com/download/win/eav/eav_nt32_enu.msi
+
