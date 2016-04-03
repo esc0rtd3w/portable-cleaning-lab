@@ -1,0 +1,10 @@
+bdlite.exe
+bdagent.exe
+bdmcon.exe
+bdsubmit.exe
+bdwizreg.exe
+driverctrl.exe
+bdinit.exe
+setloadorder.exe
+vsserv.exe
+bdss.exe

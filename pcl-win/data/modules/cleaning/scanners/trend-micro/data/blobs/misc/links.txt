@@ -1,0 +1,20 @@
+Scanner:
+http://files.trendmicro.com/products/tsc/sysclean.zip
+
+
+Definitions Enterprise
+
+Page to parse:
+http://downloadcenter.trendmicro.com/index.php?clk=tab_pattern&clkval=1&regs=NABU&lang_loc=1
+
+Direct Link:
+http://www.trendmicro.com/ftp/products/aupattern/ent95/lpt403.zip 
+
+
+Definitions Home
+
+Page to parse:
+http://downloadcenter.trendmicro.com/index.php?clk=tab_pattern&clkval=33&regs=NABU&lang_loc=1
+
+Direct Link:
+http://www.trendmicro.com/ftp/products/aupattern/consumer/cvsapi403.zip

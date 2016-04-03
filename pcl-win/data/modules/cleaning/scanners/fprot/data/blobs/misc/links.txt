@@ -1,0 +1,5 @@
+Page to parse:
+http://www.f-prot.com/download/
+
+Direct:
+http://files.f-prot.com/files/windows/fpav-windows-x86-hc-en.msi

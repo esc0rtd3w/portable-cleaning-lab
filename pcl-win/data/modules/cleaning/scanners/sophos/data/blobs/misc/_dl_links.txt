@@ -1,0 +1,27 @@
+http://downloads.sophos.com/tools/sav32sfx.exe
+
+
+Default Extract Path for sav32sfx.exe
+
+C:\SAV32CLI
+
+Needs 2 "ENTER" commands sent to it after opening to complete extraction.
+
+
+
+
+http://downloads.sophos.com/downloads/ide/481_ides.zip
+
+
+
+http://www.sophos.com/tools/esdz.exe
+
+
+
+
+SVRT:
+
+Sophos Virus Removal Tool.exe
+
+http://downloads.sophos.com/tools/withides/Sophos%20Virus%20Removal%20Tool.exe
+

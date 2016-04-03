@@ -1,0 +1,38 @@
+CCE	{-u}		Update virus database.
+CCE	{-help}		Show help.
+CCE	{-smart}		Smart scan.
+CCE	{-s [scan attribute]} [-o attribute] [-d volume|-p source] [-Shift]
+
+ Scan attribute
+   m	Scan memory on start.
+   c	Scan critical areas and boot sectors.
+   f	Scan selected drivers for hidden files/folders.
+   r	Scan hidden registry objects.
+   nv	Don't scan for viruses.
+   e.g: "m;c;f;r" -d "c;d"
+   NOTE: if you use "f" parameter, you must add -d "volume".
+
+ -o	Scan option.
+   ARCHIVE	 Scan archive files (e.g. *.zip, *.rar).
+   HOOK		 Restore any kernel hooks before the scan.
+   SUSMBR	 Scan suspicious MBR modifications in full scan(Valid for single boot computers only).
+   MODMBR	 Report all MBR modifications in full scan(Valid for single boot computers only).
+   RESTORE	 Create a windows restore point before performing the scan.
+   CAMAS		 Scan unknown processes in memory with CAMAS.
+   CAMASTIME=300 CAMAS timeout seconds.
+   Heur=0		 Heuistics Scanning level. 0:off; 1:low; 2:middle; 3:high;
+   MAX=20	 Do not scan files larger than 20(MB).
+   LOGLEVEL=1	 Log level. 0:disable log; 1:show threats log; 2:show full log 
+   e.g: "HOOK;SUSMBR;MODMBR;RESTORE;CAMAS;CAMASTIME=300;Heur=0;LOGLEVEL=1;MAX=20"
+
+ -d	Scan dirver
+   e.g -d "c;d;e" 
+
+ -p	Scan custom path
+   e.g -p "c:\1.txt;c:\123"
+   c:\123 is a folder. c:\1.txt is a file.
+
+ -Shift	Run in Aggressive mode.
+
+ e.g: CCE -s	full scan.
+ e.g: CCE -s "m;c;f;r" -o "CAMAS;CAMASTIME=300" -d "c;d" -p "c:\1.txt" 

@@ -1,0 +1,219 @@
+ /?[+|-]
+	
+
+display help screen;
+
+/M=1
+	
+
+fast scan mode;
+
+/M=2
+	
+
+optimal scan mode (/AF+);
+
+/M=3
+	
+
+thorough scan mode (/AF+ /PM+);
+
+/AF[+|-]
+	
+
+all files;
+
+/PM[+|-]
+	
+
+thorough scan mode;
+
+/RW[+|-]
+	
+
+detect Spyware, Adware, Riskware;
+
+/CH[+|-]
+	
+
+turn on cache while scanning object;
+
+/FC[+|-]
+	
+
+cure virus-infected files;
+
+/FD[+|-]
+	
+
+delete virus-infected files;
+
+/FR[+|-]
+	
+
+rename virus-infected files;
+
+/FM+[derictory]
+	
+
+move infected files to the selected directory;
+
+/BC[+|-]
+	
+
+cure boot sectors;
+
+/LF[+|-]
+	
+
+load Russian font (DOS-version only);
+
+/HA=[0|1|2|3]
+	
+
+heuristic analysis level (0 ñ disabled, 2 ñ maximum);
+
+/MR[+|-]
+	
+
+memory scanning (enabled by default);
+
+/BT[+|-]
+	
+
+boot sectors scanning (enabled by default);
+
+/AS[+|-]
+	
+
+scan files launched at system startup (enabled by default, for Windows only);
+
+/QI[+[directory]|-]
+	
+
+copy infected object to Quarantine;
+
+/QS[+[directory]|-]
+	
+
+copy suspicious object to Quarantine;
+
+/D=[N,][file name]
+	
+
+run program once in N days (1 by default);
+
+/R=[file name]
+	
+
+save report to a file (VBA32.RPT by default);
+
+/R+[[file name]
+	
+
+append report to a file (VBA32.RPT by default);
+
+/L=[file name]
+	
+
+save the list of infected files to a file(VBA32.LST);
+
+/L+[ËÏˇ_Ù‡ÈÎ‡]
+	
+
+append the list of infected files to a file (VBA32.LST);
+
+/QU[+|-]
+	
+
+allow program termination (by default);
+
+/DB=directory
+	
+
+search for virus definition updates in the selected folder at startup;
+
+/SS[+|-]
+	
+
+enable sound notification on virus detection;
+
+/OK[+|-]
+	
+
+include ìcleanî file names in the report;
+
+/AR[+|-]
+	
+
+scan archives;
+
+/AD[+|-]
+	
+
+delete archives containing infected files;
+
+/AL=[file_size,kB]
+	
+
+donít scan archives larger than the specified value;
+
+/SFX[+|-]
+	
+
+scan installers of malware;
+
+/ML[+|-]
+	
+
+scan mail;
+
+/MD[+|-]
+	
+
+delete messages containing infected files;
+
+/VL[+|-]
+	
+
+view the list of known viruses;
+
+/VM[+|-]
+	
+
+display information about macros in documents;
+
+/SI[+|-]
+	
+
+additional information about program support;
+
+/LNG=suffix
+	
+
+use language support file VBA32.LNG (RU by default);
+
+/KF={directory|path}
+	
+
+specify path to a key file;
+
+/EXT=
+	
+
+specify the list of file extensions to be scanned;
+
+/EXT+
+	
+
+add user defined file extensions to the default list;
+
+/EXT-
+	
+
+remove file extensions from the default list;
+
+/WK[+|-]
+	
+
+wait for any key to be pressed when finished. 

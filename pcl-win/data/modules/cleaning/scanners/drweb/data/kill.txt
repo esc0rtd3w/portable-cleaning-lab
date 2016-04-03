@@ -1,0 +1,3 @@
+drwebupw.exe
+drwebwcl.exe
+scanner.exe

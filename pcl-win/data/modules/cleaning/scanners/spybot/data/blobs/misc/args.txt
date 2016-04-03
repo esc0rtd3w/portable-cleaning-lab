@@ -1,0 +1,36 @@
+-----------------------------------------------------------------------------------
+SDScan.exe
+
+Basic                   - 
+  /help                 - shows this page
+  /verbose              - displays more output
+
+Available Operations    - you need to specify one of these
+  /scan                 - starts a scan immediately
+  /scanforlastresults   - starts a (re-)scan for just the products detected during the last scan
+  /autoclean            - initiates automatic removal of results after scan
+
+Automation              - 
+  /silent               - avoid unnecessary output
+  /taskbarhide          - avoid UI appearing even in the task list
+  /cleanclose           - closes after /scan if results are clean
+  /autoclose            - closes after /scan
+  /shutdown             - shuts down the computer after /scan
+  /reboot               - reboots the computer after /scan
+  /testshutdown         - add to test /shutdown or /reboot - cancels reboot after 10 seconds.
+
+                        - 
+
+Supplemental Options    - 
+  /youtube              - adds menu option to resize windows to YouTube video resolutions
+  /forcemarquee         - tries to force scan progress marquee dialog to display even on unsupported OS
+  /nomarquee            - skips the progress marquee dialog during scans
+
+System Service related    - 
+  /serviceinstalltest   - fakes that services are not installed
+
+Scan limitations        - 
+  /browsercache         - scans just the browser cache
+  /services             - scans just system services
+  /justincludes         - just the filesystem
+-----------------------------------------------------------------------------------

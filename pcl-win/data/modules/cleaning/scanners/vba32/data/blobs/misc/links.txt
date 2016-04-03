@@ -1,0 +1,15 @@
+Main Pub FTP:
+ftp://anti-virus.by/pub/
+
+VBA32w:
+ftp://anti-virus.by/pub/vba32w-latest.zip
+
+Page to parse (Main):
+http://anti-virus.by/en/index.shtml
+
+Page to parse (Personal Edition):
+http://anti-virus.by/en/personal.shtml
+
+Scanner (Personal Edition):
+ftp://anti-virus.by/pub/links/vba32-personal-latest-multilanguage.exe
+

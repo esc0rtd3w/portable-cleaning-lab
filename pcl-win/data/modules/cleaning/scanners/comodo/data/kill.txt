@@ -1,0 +1,14 @@
+Autoruns.exe
+cavscan.exe
+cavwp.exe
+CCE.exe
+cfpconfg.exe
+cis.exe
+cisbf.exe
+CisTray.exe
+cmdagent.exe
+cmdinstall.exe
+cmdupd.exe
+cmdvirth.exe
+KillSwitch.exe
+virtkiosk.exe

@@ -1,0 +1,77 @@
+Basic options 	Description
+/base-dir=directory 	path to load modules from
+/quar-dir=directory 	path to use for quarantining files
+/exclude=MASK 	exclude files matching MASK from scanning
+/subdir 	scan subdirectories (default)
+/no-subdir 	do not scan subdirectories
+/max-subdir-level=number 	maximum number of subdirectories to scan recursively (by default, 0, which is unlimited)
+/symlink 	follow symbolic links (default)
+/no-symlink 	skip symbolic links
+/ads 	scan Alternate Data Streams (ADS) (default)
+/no-ads 	do not scan ADS
+/log-file=file 	log output to file
+/log-rewrite 	overwrite output file (default - append)
+/log-console 	log output to console (default)
+/no-log-console 	do not log output to console
+/log-all 	also log clean files
+/no-log-all 	do not log clean files (default)
+/aind 	show activity indicator
+/auto 	scan and automatically clean all local disks
+Scanner options 	Description
+/files 	scan files (default)
+/no-files 	do not scan files
+/memory 	scan memory
+/boots 	scan boot sectors (default)
+/no-boots 	do not scan boot sectors
+/arch 	scan archives (default)
+/no-arch 	do not scan archives
+/max-obj-size=number 	only scan files smaller than SIZE megabytes (default 0 = unlimited)
+/max-archive-level=number 	maximum number of archives to scan recursively (by default, 0, which is unlimited)
+/scan-timeout=number 	maximum amount of time in seconds to scan an archive file
+/max-arch-size=number 	maximum number of bytes to scan inside an archive file(by default, 0, which is unlimited)
+/max-sfx-size=number 	only scan the files in a self-extracting archive if they are smaller than SIZE megabytes (default 0 = unlimited)
+/mail 	scan email files
+/no-mail 	do not scan email files
+/mailbox 	scan mailboxes (default)
+/no-mailbox 	do not scan mailboxes
+/sfx 	scan self-extracting archive files
+/no-sfx 	do not scan self-extracting archive files
+/rtp 	scan runtime packed files
+/no-rtp 	do not scan runtime packed files
+/adware 	scan for Adware/Spyware/Riskware
+/no-adware 	do not scan for Adware/Spyware/Riskware
+/unsafe 	scan for potentially unsafe applications
+/no-unsafe 	do not scan for potentially unsafe applications
+/unwanted 	scan for potentially unwanted applications
+/no-unwanted 	do not scan for potentially unwanted applications
+/pattern 	use signatures
+/no-pattern 	do not use signatures
+/heur 	enable heuristics
+/no-heur 	disable heuristics
+/adv-heur 	enable Advanced heuristics
+/no-adv-heur 	disable Advanced heuristics
+/ext=extension 	scan only files ending in extension (use a colon character (':') to separate extensions)
+/ext-exclude=extension 	do not scan any files ending in extension (use a colon character (':') to separate extensions)
+/clean-mode=MODE 	use cleaning MODE for infected objects. The following options are available:
+
+None— No automatic cleaning will occur.
+
+Standard (default)— ECLS.exe will attempt to automatically clean or delete infected files.
+
+Strict— ECLS.exe will attempt to automatically clean or delete infected files without user intervention (you will not be prompted before files are deleted).
+
+Rigorous— ECLS.exe will delete files without attempting to clean regardless of what the file is.
+
+Delete— ECLS.exe will delete files without attempting to clean, but will refrain from deleting sensitive files such as Windows system files.
+/quarantine 	copy infected files to Quarantine (supplements action)
+/no-quarantine 	do not copy infected files to Quarantine
+General options 	Description
+/help 	show help and quit
+/version 	show version information and quit
+/preserve-time 	preserve last access timestamp
+Exit codes* 	Description
+0 	no threat found
+1 	threat found and cleaned
+10 	some files could not be scanned (may be threats)
+50 	threat found
+100 	error

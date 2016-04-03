@@ -1,0 +1,20 @@
+bdlite.exe
+
+Standalone error
+
+
+
+prompt only:
+
+00406F28  |. /75 7B         JNZ SHORT 00406FA5
+
+
+
+
+
+
+
+
+
+
+

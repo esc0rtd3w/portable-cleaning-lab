@@ -1,0 +1,5 @@
+Page to parse:
+http://www.kaspersky.com/antivirus-removal-tool
+
+Scanner Direct:
+http://devbuilds.kaspersky-labs.com/devbuilds/AVPTool/avptool11/setup_11.0.3.8.x01_2015_01_13_05_35.exe

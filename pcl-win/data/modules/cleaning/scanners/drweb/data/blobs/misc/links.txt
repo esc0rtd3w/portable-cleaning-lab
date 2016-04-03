@@ -1,0 +1,22 @@
+GUI Version
+
+Page to parse:
+https://www.freedrweb.com/download+cureit/gr/?lng=en
+http://www.freedrweb.com/download+cureit/?nc=t&lng=en
+
+Direct:
+http://download.geo.drweb.com/pub/drweb/cureit/1421465043.279/pgm8l1dw.exe
+
+
+New:
+https://www.freedrweb.com/download+cureit/gr/?lng=en
+
+
+
+Console Version
+
+Page to parse:
+http://download.drweb.com/console_win/?lng=en
+
+Direct:
+http://download.geo.drweb.com/pub/drweb/wcl/drweb-500-wcl.zip

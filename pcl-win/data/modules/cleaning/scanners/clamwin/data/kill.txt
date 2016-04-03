@@ -1,0 +1,8 @@
+ClamWinPortable.exe
+clamscan.exe
+ClamTray.exe
+ClamWin.exe
+freshclam.exe
+QRecover.exe
+sigtool.exe
+WClose.exe
