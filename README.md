@@ -3,8 +3,16 @@ Portable Cleaning Lab (PCL) Scripting and Utilities For A Completely Portable Ma
 
 
 
-Version History
-----------------
+Version History (Windows)
+--------------------------
+
+v0.9.4
+
+-GLOBAL: Updated definitions for all compatible portable malware scanners
+
+-GLOBAL: Added "HDDScan 3.3" to diagnostics modules and added to scripting
+
+
 
 v0.9.3
 
@@ -3105,3 +3113,14 @@ v0.1.0
 -RemoveIt Pro sandboxed and made portable
 -Spybot Search and Destroy sandboxed and made portable
 -Added "cleaning" to "/data/modules/"
+
+
+
+
+
+Version History (Linux)
+--------------------------
+
+v0.1.0
+
+-Initial Version
