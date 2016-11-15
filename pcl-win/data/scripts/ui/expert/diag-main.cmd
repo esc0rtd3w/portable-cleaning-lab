@@ -16,19 +16,20 @@ echo.
 echo.
 echo 1) CoreTemp
 echo 2) Fake Flash Test (USB Flash Media Size Verification)
-echo 3) Install Spy
-echo 4) OverDisk
-echo 5) Process Explorer
-echo 6) Process Hacker
-echo 7) Process Monitor
-echo 8) RegDllView
-echo 9) RegFromApp
-echo 10) RegScanner
-echo 11) Seagate SeaTools
-echo 12) Speccy
-echo 13) svchost Analyzer
-echo 14) System Explorer
-echo 15) Unknown Device Identifier
+echo 3) HDDScan
+echo 4) Install Spy
+echo 5) OverDisk
+echo 6) Process Explorer
+echo 7) Process Hacker
+echo 8) Process Monitor
+echo 9) RegDllView
+echo 10) RegFromApp
+echo 11) RegScanner
+echo 12) Seagate SeaTools
+echo 13) Speccy
+echo 14) svchost Analyzer
+echo 15) System Explorer
+echo 16) Unknown Device Identifier
 echo.
 echo.
 echo B) Go Back
@@ -50,19 +51,20 @@ if %menuItem% gtr 15 goto reset
 
 if %menuItem%==1 set diagActive=core-temp
 if %menuItem%==2 set diagActive=fakeflashtest
-if %menuItem%==3 set diagActive=install-spy
-if %menuItem%==4 set diagActive=over-disk
-if %menuItem%==5 set diagActive=process-explorer
-if %menuItem%==6 set diagActive=process-hacker
-if %menuItem%==7 set diagActive=process-monitor
-if %menuItem%==8 set diagActive=regdllview
-if %menuItem%==9 set diagActive=regfromapp
-if %menuItem%==10 set diagActive=regscanner
-if %menuItem%==11 set diagActive=seatools
-if %menuItem%==12 set diagActive=speccy
-if %menuItem%==13 set diagActive=svchost-analyzer
-if %menuItem%==14 set diagActive=system-explorer
-if %menuItem%==15 set diagActive=unknown-device-identifier
+if %menuItem%==3 set diagActive=hddscan
+if %menuItem%==4 set diagActive=install-spy
+if %menuItem%==5 set diagActive=over-disk
+if %menuItem%==6 set diagActive=process-explorer
+if %menuItem%==7 set diagActive=process-hacker
+if %menuItem%==8 set diagActive=process-monitor
+if %menuItem%==9 set diagActive=regdllview
+if %menuItem%==10 set diagActive=regfromapp
+if %menuItem%==11 set diagActive=regscanner
+if %menuItem%==12 set diagActive=seatools
+if %menuItem%==13 set diagActive=speccy
+if %menuItem%==14 set diagActive=svchost-analyzer
+if %menuItem%==15 set diagActive=system-explorer
+if %menuItem%==16 set diagActive=unknown-device-identifier
 
 set runDirectory=%pclTempMain%\%diagActive%
 

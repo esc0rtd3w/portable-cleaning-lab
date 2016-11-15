@@ -64,7 +64,7 @@ echo 18) Norman Malware Cleaner***
 echo 19) Panda Antivirus
 echo 20) RemoveIT Pro v4: SE
 echo 21) SuperAntiSpyware
-echo 22) Sophos Virus Removal Tool
+echo 22) Sophos Virus Removal Tool*
 echo 23) Spybot: Search and Destroy
 echo 24) Trend Micro SysClean*
 echo 25) VBA32 Antivirus

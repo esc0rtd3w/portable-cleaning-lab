@@ -1,3 +1,11 @@
+v0.9.4
+
+-GLOBAL: Updated definitions for all compatible portable malware scanners
+
+-GLOBAL: Added "HDDScan 3.3" to diagnostics modules and added to scripting
+
+
+
 v0.9.3
 
 -GLOBAL: Updated definitions for all compatible portable malware scanners
@@ -12,7 +20,7 @@ v0.9.3
 
 -CLI: Added "snowman.ini" to cleanup script. This file is created by x64dbg in the PCL root, and is automatically cleaned during startup and exit
 
--CLI: Antivir and Vipre update modules have been flagged as no longer working due to recently discovered server side changes. These and other scripts will be fixed soon
+-CLI: Antivir, Sophos, and Vipre update modules have been flagged as no longer working due to recently discovered server side changes. These and other scripts will be fixed soon
 
 
 
