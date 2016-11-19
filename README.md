@@ -10,7 +10,7 @@ v0.9.4
 
 -GLOBAL: Updated definitions for all compatible portable malware scanners
 
--GLOBAL: Added "HDDScan 3.3" to diagnostics modules and added to scripting
+-GLOBAL: Added "HDDScan 3.3" and "RAMMap 1.50" to diagnostics modules and added to EXPERT scripting menu
 
 
 
