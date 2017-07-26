@@ -1,12 +1,28 @@
 Portable Cleaning Lab (PCL) Scripting and Utilities For A Completely Portable Malware Removal Experience
 
 
-Download Full PCL v0.9.4 Archive
-https://mega.nz/#!6IInxYJT!fl5ZHJ6u0YrkpWCjAR_R2IqzReAw14RDASoKaXgQ8NA
+Downloads:
+
+PCL Main Directory
+https://mega.nz/fm/CcJFhRhB
+
+Full PCL Archive (pcl-win-0.9.5-rc9.zip)
+[LINK SOON]
+
 
 
 Version History (Windows)
 --------------------------
+
+v0.9.5
+
+-GLOBAL: Updated definitions for all compatible portable malware scanners
+
+-GLOBAL: Updated "RemoveIt Pro" base to new version. Old version retained (removeit-old.pcl) until updates are working properly.
+
+-GLOBAL: Removed all broken or old PCL modules from project. They have been archived under "scanners/inactive" on GitHub and MEGA sites.
+
+
 
 v0.9.4
 
