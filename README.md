@@ -10,7 +10,7 @@ PCL Inactive Modules:
 https://mega.nz/#!WQ43kAKI!elDyqHVPyfAc3alLePfah9VNep5-sMyd4OStxEaVRYI
 
 Full PCL Archive:
-[LINK SOON]
+https://mega.nz/#!qdZXCZib!XiiEy2iQZQq9QkvupZBw1xGk7wUahMQYzzMPHvsouqA
 
 PCL Mini Windows PE Edition:
 https://mega.nz/#!2VggkRLB!I-zIzkapIlSYJ_PozUU3TBrCuh8irKOefqJ9Fr8BCwY
