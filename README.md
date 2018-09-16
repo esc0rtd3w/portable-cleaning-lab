@@ -3,17 +3,8 @@ Portable Cleaning Lab (PCL) Scripting and Utilities For A Completely Portable Ma
 
 Downloads:
 
-PCL Main Directory:
-https://mega.nz/fm/CcJFhRhB
-
-PCL Inactive Modules:
-https://mega.nz/#!WQ43kAKI!elDyqHVPyfAc3alLePfah9VNep5-sMyd4OStxEaVRYI
-
-Full PCL Archive:
-https://mega.nz/#!qdZXCZib!XiiEy2iQZQq9QkvupZBw1xGk7wUahMQYzzMPHvsouqA
-
-PCL Mini Windows PE Edition:
-https://mega.nz/#!2VggkRLB!I-zIzkapIlSYJ_PozUU3TBrCuh8irKOefqJ9Fr8BCwY
+PCL Full Release:
+http://www.mediafire.com/?ub91m70bcswub
 
 
 
