@@ -4,7 +4,7 @@ Portable Cleaning Lab (PCL) Scripting and Utilities For A Completely Portable Ma
 Downloads:
 
 PCL Full Release:
-http://www.mediafire.com/?ub91m70bcswub
+http://www.mediafire.com/file/uxlbms4x1zap7n6/pcl-win-20180916.zip/file
 
 
 
