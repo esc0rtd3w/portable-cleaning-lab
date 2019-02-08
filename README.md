@@ -11,6 +11,22 @@ http://www.mediafire.com/file/h91mcnkjy2ktbqp/pcl-win-20190207.zip/file
 Version History (Windows)
 --------------------------
 
+v0.9.6
+
+-GLOBAL: Updated definitions for all compatible portable malware scanners
+
+-GLOBAL: Added "elevate-x86.exe" and "elevate-x64.exe" by Kai Liu to /bin/ for invoking UAC on-demand
+
+-GLOBAL: Disabled malware scanners that have problems running or updating, until fixed
+
+-GLOBAL: Updated "CCleaner" core files in maintenance module to v5.50.6911
+
+-GLOBAL: Updated "MiniTool Partition Wizard Free" core files to v11.0
+
+-GLOBAL: Updated "SuperAntiSpyware" x86/x64 core files to v8.0.1028
+
+
+
 v0.9.5
 
 -GLOBAL: Updated definitions for all compatible portable malware scanners
@@ -18,6 +34,14 @@ v0.9.5
 -GLOBAL: Updated "RemoveIt Pro" base to new version. Old version retained (removeit-old.pcl) until updates are working properly.
 
 -GLOBAL: Removed all broken or old PCL modules from project. They have been archived under "scanners/inactive" on GitHub and MEGA sites.
+
+-GLOBAL: Updated "CCleaner" core files in maintenance module to v5.32.6129
+
+-GLOBAL: Updated "SuperAntiSpyware" x86/x64 core files to v6.0.1258
+
+-GLOBAL: Updated "ClamWinAV" x86/x64 core files to v0.100.0
+
+-GLOBAL: Updated "MiniTool Partition Wizard Free" core files to v10.2.3
 
 
 
