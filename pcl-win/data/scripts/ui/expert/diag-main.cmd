@@ -22,14 +22,16 @@ echo 5) OverDisk
 echo 6) Process Explorer
 echo 7) Process Hacker
 echo 8) Process Monitor
-echo 9) RegDllView
-echo 10) RegFromApp
-echo 11) RegScanner
-echo 12) Seagate SeaTools
-echo 13) Speccy
-echo 14) svchost Analyzer
-echo 15) System Explorer
-echo 16) Unknown Device Identifier
+echo 9) RAM Map
+echo 10) RegDllView
+echo 11) RegFromApp
+echo 12) RegScanner
+echo 13) Seagate SeaTools
+echo 14) SearchMyFiles (Search and Duplicate Finder)
+echo 15) Speccy
+echo 16) svchost Analyzer
+echo 17) System Explorer
+echo 18) Unknown Device Identifier
 echo.
 echo.
 echo B) Go Back
@@ -57,14 +59,16 @@ if %menuItem%==5 set diagActive=over-disk
 if %menuItem%==6 set diagActive=process-explorer
 if %menuItem%==7 set diagActive=process-hacker
 if %menuItem%==8 set diagActive=process-monitor
-if %menuItem%==9 set diagActive=regdllview
-if %menuItem%==10 set diagActive=regfromapp
-if %menuItem%==11 set diagActive=regscanner
-if %menuItem%==12 set diagActive=seatools
-if %menuItem%==13 set diagActive=speccy
-if %menuItem%==14 set diagActive=svchost-analyzer
-if %menuItem%==15 set diagActive=system-explorer
-if %menuItem%==16 set diagActive=unknown-device-identifier
+if %menuItem%==9 set diagActive=rammap
+if %menuItem%==10 set diagActive=regdllview
+if %menuItem%==11 set diagActive=regfromapp
+if %menuItem%==12 set diagActive=regscanner
+if %menuItem%==13 set diagActive=seatools
+if %menuItem%==14 set diagActive=searchmyfiles
+if %menuItem%==15 set diagActive=speccy
+if %menuItem%==16 set diagActive=svchost-analyzer
+if %menuItem%==17 set diagActive=system-explorer
+if %menuItem%==18 set diagActive=unknown-device-identifier
 
 set runDirectory=%pclTempMain%\%diagActive%
 

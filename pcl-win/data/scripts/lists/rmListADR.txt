@@ -1,49 +1,49 @@
 acccore
+AnyProtectEx
 ap_logs
+Awesomium
 Babylon
 Betcat
 Claro
 Claro LTD
 Compete
 DefaultTab
+DMCache
+Driver Pro
+DriverCure
 File Scout
+Fingertapps
 FirefoxToolbar
+freegames4357
+GoldenGate
 IDMSQ
 Iminent
+IminentToolbar
 InstallX Search Protect for Yahoo
 iSafe
 KeepMySettingsX
+Leader Technologies
+LolClient
 Open Download Manager
+OpenSoftwareUpdater
 OpenSoftwareUpdater
 Optimizer Pro
 PC Tech Hotline
+PCDr
 Pro PC Cleaner
+Rainmaker Software Group LLC
+ShopAtHome
+ShopAtHome
 Smart PC Cleaner
 SoftGrid Client
+SoftwareUpdater
 SpeedAnalysis2
 Strongvault
+Systweak
+Taplika
 Uniblue
+USTechSupport
 ValueApps
 Weatherbug
 WebApp
 WinBatch
-DriverCure
-IminentToolbar
-Leader Technologies
-OpenSoftwareUpdater
-ShopAtHome
-Systweak
-AnyProtectEx
-Fingertapps
-freegames4357
-GoldenGate
-PCDr
-ShopAtHome
-SoftwareUpdater
-Taplika
-USTechSupport
-LolClient
-Rainmaker Software Group LLC
-Driver Pro
-Awesomium
-DMCache

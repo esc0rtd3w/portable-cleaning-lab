@@ -66,8 +66,8 @@ if %errorlevel%==0 set ostype=win10
 :: ---------------------------------------------------------------------------------------
 :: PCL Core Begins Here
 :: ---------------------------------------------------------------------------------------
-set mainVer=0.9.3
-set textReleaseType=RC7
+set mainVer=0.9.6
+set textReleaseType=RC10
 set debugMode=0
 
 :: Set initial value for 0-byte file detection
@@ -620,6 +620,7 @@ set diff="%pclBinPath%\diff.exe"
 set diff3="%pclBinPath%\diff3.exe"
 set driverquery="%pclBinPath%\driverquery.exe"
 set dumphive="%pclBinPath%\dumphive.exe"
+set elevate="%pclBinPath%\elevate-%bits%.exe"
 set exiftool="%pclBinPath%\exiftool.exe"
 set openfile="%pclBinPath%\FileToOpen.exe"
 set savefile="%pclBinPath%\FileToSave.exe"
@@ -675,8 +676,10 @@ set msgBoxStyleYesNo=YESNO
 set msgBoxStyleYesNoCancel=YESNOCANCEL
 
 set NBHextract="%pclBinPath%\NBHextract.exe"
+set newfile="%pclBinPath%\newfile.exe"
 set nop="%pclBinPath%\nop.exe"
 set nssm="%pclBinPath%\nssm.exe"
+set partcopy="%pclBinPath%\partcopy.exe"
 set process="%pclBinPath%\process.exe"
 set pv="%pclBinPath%\pv.exe"
 

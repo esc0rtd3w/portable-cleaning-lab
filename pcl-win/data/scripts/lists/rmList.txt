@@ -3,38 +3,61 @@
 1H1Q
 2308189059
 35556262-902E-49AE-8622-66E14F1F041C
+3c049c0d-a23f-45d1-a58d-d5ab53ae4352
 57F737B4-ACBE-4AFB-87B3-6DC08B80F484
+6b67962d-1524-4564-98ac-387f94912ac4
+6E6B36EB-9156-411B-B951-C735F4747DCF
 6E6B36EB-9156-411B-B951-C735F4747DCF
 Activeris
+Aleks 3.15
+Aleks 3.18
 AllDaySavings
 alot
 alotappbar
 AmiExt
 AntiMalware
+AnyProtectEx
 Application Updater
 Ask.com
 AskPartnerNetwork
 AskTBar
 Astrology_4aEI
 Avanquest
+avaxvavya
 BabSolution
 Babylon
+BBItSaveoro
+bbqleads
 bd7af1f4-c277-47ac-a3e5-4f9d81a745d1
 BeamriseUninstall
 Bench
 Better-Surf
 BigFix
+BitaSaVer
+BitSauver
 Blingee Plus
 Bofo
 BonanzaDealsLive
+BrowseForTheCause
 Browser Features
+BrowserHelper
 BrowserProtect
 Browsers+_App#s#
+Browsers+Apps+1.1
 Browsersafeguard
 buenosearch LTD
+Bull Softwares
 Bundled software uninstaller
 BuzzSearch
+Chromatic Browser
+Cinema Video Pro 1.6V10.11
+CinemaPlus-3.2cV05.06
 CinemaPlus-3.2cV16.05
+CinemaPlus-3.2cV16.05
+CleanerPro
+CloudGuard
+com
+CompuClever
 CompuClever
 Conduit
 ConduitEngine
@@ -48,31 +71,43 @@ Coupons
 Coupons.com CouponBar
 Coupouns
 CoUpScanneR
+CoupScannero
 Crawler
 crimsolite
+Crossbrowse
 Crossbrowse
 CyberDefender
 ddeaalpeak
 ddeal2dealit
 DDIgiaCeoupoon
+deAl2dealIt
+deal4irreaL
 DealAlly
 DealSuggester
 DefaultTab
 Deluge
+Desktop Dock
 DesktopDialer
+DesktopTemperature
 di2BlockAndSurf
 di9TheBestDeals
 DIgiSavErr
+download Manager
 DownloadTerms
+DOwNSAeve
 Driver Restore
+Driver Tool
 DriverCure
 DRIVERfighter
 DriverRestore
 Earth Networks
 eBay
-eDealsPop
+Ebon
 Ebon
 Ebon Maintenance Service
+Ebon Maintenance Service
+eDealsPop
+Edu App
 Edu App
 EgisTec IPS
 EgisTec MyWinLocker
@@ -82,26 +117,39 @@ EonjoyyCoouuppoNN
 Etron Technology
 Eusing Free Registry Cleaner
 Eusing Free Registry Defrag
+Extreme Blocker
 EZDownloader
+Fancy Response
 fassurun
 Fast Browser Search
 FastAgain PC Booster
 FastMediaConverter
 Feven 2.2
+FianeDealSooft
 Fighters
 FileOpenerPro
+Fingertapps
 FixCleaner
+FlashBeat
+FlexibleShhopppeer
 focusbase
 Framed Display
 Free Games
 Free Offers from Freeze.com
+freegames4357
 FreeHDSport TV
 FreeHDSport.TV
+Freemake
+fst_us_147
+fst_us_149
 fst_us_209
 FunkLyrics
 FunWebProducts
+Gameo
 GamesBar
 Gameztar Toolbar
+gCXhpgaR
+Geckofx
 GeniusBox
 GetMeDeals
 GetRightToGo
@@ -109,12 +157,20 @@ getsavin
 glindorus
 globalUpdate
 gmsd_us_581
+gmsd_us_581
 gmsd_us_585
+gmsd_us_585
+gmsd_us_657
+gmsd_us_74
+GoldenGate
+Goobzo
 gorillaprice
 greatsaving
 grillaprice
+grillaprice
 GuffinsEI
 GUM5282.tmp
+GUPlayer
 GUPlayer
 HDPlayer
 Hoist Search
@@ -129,12 +185,16 @@ illiminable
 Imikimi
 Iminent
 IminentToolbar
+IMVU
+IMVUClient
 Inbox.com
 InboxAce_1g
 InboxAce_1gEI
 Infonaut_1.10.0.13
+Infonaut_1.10.0.13
 Information
 install_clap
+Installer
 InternetHelper3.1
 IOI
 iplay_en
@@ -142,16 +202,26 @@ Itibiti Soft Phone
 iWebar
 iWonEI
 JoONiCCoupono
+kcgnmcabmjiadcldgbhcohfifnfbdcmo
+Keep Awake
 KGyGaAvL
+khnkojhcbbdmigplafncnjcfiggalkid
 Level Quality Watcher
+LighterModulator
 Linkey
 LLuCekyShopPear
+LolyKey
 LTCM Client
 LucekyCOupoen
+LyricsParty-soft
+makulitsidwe
 Maps4PC_0c
 Maps4PC_0cEI
 MapsGalaxy_39
 MarineAquarium3Free_57EI
+Max Computer Cleaner
+MaxComputerCleaner
+MaxComputerCleaner_v17.642
 Maxiget
 media enhance
 MediaBuzzV1
@@ -162,27 +232,35 @@ MediaWatchV1
 mefeediatest
 MixiDJ_V44
 MixVideoPlayer
+MixVideoPlayer
 Move Networks
 My Company Name
 My.Freeze.com Toolbar
 MyPC Backup
 Mysearchdial
 mystarttb
+mystarttb
 MyTechGurus
 MyWebSearch
 net1_sys32
 newnext.me
+NewTab Connect Homepage
 NexGenMediaPlayer
+nlikcompbpfinbbonponkbjdbineclph
+NoMore Ads
 Object Browser
 OfficeGuardian
 ooVoo
 Optimizer Elite Max
 Optimizer Pro
 Optimizer Pro 3.91
+Optimizer Pro 3.91
+ORBTR
 ORBTR
 ospd_us_201
 ospd_us_210
 OutfoxTVaddon
+OverTheEdge
 PackageTracer_69
 PageRage
 Participatory Culture Foundation
@@ -190,6 +268,10 @@ PC Cleaner
 PC Drivers HeadQuarters
 PC Performer
 PC Speed Up
+PC Tools Registry Mechanic
+PC_Drivers_Headquarters
+PC_Drivers_Headquarters
+PCDr
 PCFixSpeed
 PCHealthBoost
 pcmax
@@ -200,27 +282,40 @@ PepperZip
 PerformerSoft
 PING_sys32
 Play Pickle
+PlayPickle
 Plus-HD-7.7
 Plus-HD-9.3
+Ponyhoof
 predm
 PriceGong
+Priceless
+PrICeMeinus
 PriceMeter
 PriceMeterLiveUpdate
 Pro PC Cleaner
 puredefmusic
 PureLeads
+PuriceLesse
 RadioPI_4e
 RadioPI_4eEI
 Re-markit
 Re-markit-soft
 RecipeHub_2j
 RecipeHub_2jEI
+Red AdBlocker
+Reg Pro Cleaner
+ReguulArDDealsi
 Reimage
 RelevantKnowledge
 RichMediaViewV1
+RiightOfFerApp
 Rr Savings
+Run_Dregol
 SaaVeNaEweaAAppz
 SafeGuard
+SafeGuard
+SalePlus
+SalePlusu
 SaveNNewaAppz
 SaveSense
 SaveSenseLive
@@ -243,13 +338,16 @@ Settings Manager
 Setup NetZero
 Setup Support for Consumer Input
 SevereWeatherAlerts
+ShopAtHome
 ShopperPro
+Shopperz
 ShoppingReport
 ShoppingReport2
 SIFXINST
 SimilarSites
 SiteRanker
 sizlsearch
+Smart-ActiveX
 Smartbar
 SmartOnes
 SmartPCScan
@@ -261,25 +359,34 @@ soave. net
 soave.net
 Social Privacy  DNS
 Social Privacy DNS
+SOftCouap
 SoftCoup
 SoftSafe
+SoftThinks
 SoftUpdate
+SoftwareUpdater
 SolidSavings
 Soluto
 Somagic
 sp
 Spare Backup
+speed browser
 Speed Test
 SpeedAnalysis
 Speedial
 speedtest4354
+SpeedyPC Pro
+SpeedyPC Software
 Spigot
 SqueakyChocolate
+ssaveron
 Start Savin
 StatusWinks
+Steam Trader Helper
 Super Optimizer
 Supporter
 suprasavings
+surfkeePit
 SW-Booster
 SweetIM
 SweetPacks_A10
@@ -288,25 +395,40 @@ SwvUpdater
 SymSilent
 SySaver
 SysFilesx
+SysFilesx
 System_Alerts_LLC
 systweak
 Systweak Support Dock
+TAkeTheCoUUpoon
+TAkeThheoCoupon
+TakoeTheCouuPon
+Taplika
+Taplika
+TBHostSupport
+TelevisionFanatic
 TelevisionFanaticEI
 TempInstaller
 Tepfel
+The-Go-Photo-it-v11
 The weDownload Manager
 TidyNetwork
 Tific
+topbuayer
 TotalRecipeSearch_14EI
 TrustMediaViewerV1
 Tuguu_SL
 TuneUp Software
+UltraCoupon
+Unchecky
 UpdaterEX
+USTechSupport
 UtilityChest_49
 VebaSearch
+ver1LyricsParty
 ver3BlockAndSurf
 ver7BlockAndSurf
 ver8NewPlayer
+ver9BlockAndSurf
 VeriBrowse-soft
 Video-Saver-soft
 Video Downloader
@@ -317,6 +439,8 @@ VideoScavenger_1e
 VideoScavenger_1eEI
 VipBoxSportsApp.com
 visi_coupon
+Vosteran
+WaowCeoupoon
 Weather_Notifications,_LL
 Weather_Warnings_LLC
 WeatherBlinkEI
@@ -327,144 +451,20 @@ Websteroids
 WeCareReminder
 weDownload
 weDownload Manager
+WGANomTYuuq
+WGANomTYuuq
 WhiteListing
 Win 7 Security 2012
 WinRST
 WinZip Registry Optimizer
 wlanext_sys32
 WolfQuest
+Workspace
 Worldwide Web Research
 YouTube Accelerator
 YoutubeAdblocker
 YVAvyxyk
 ZalmanInstaller_52330
 Zero G Registry
-Zoom Downloader
-6E6B36EB-9156-411B-B951-C735F4747DCF
-Aleks 3.15
-Aleks 3.18
-deAl2dealIt
-deal4irreaL
-fst_us_147
-fst_us_149
-ssaveron
-surfkeePit
-ver9BlockAndSurf
-bbqleads
-Bull Softwares
-Reg Pro Cleaner
-3c049c0d-a23f-45d1-a58d-d5ab53ae4352
-6b67962d-1524-4564-98ac-387f94912ac4
-BrowseForTheCause
-Browsers+Apps+1.1
-Cinema Video Pro 1.6V10.11
-CloudGuard
-Desktop Dock
-LyricsParty-soft
-OverTheEdge
-Smart-ActiveX
-The-Go-Photo-it-v11
-ver1LyricsParty
-PlayPickle
-grillaprice
-PC_Drivers_Headquarters
-Workspace
-avaxvavya
-BrowserHelper
-Chromatic Browser
-CleanerPro
-com
-DesktopTemperature
-Gameo
-Geckofx
-gmsd_us_74
-Installer
-PC_Drivers_Headquarters
-SoftThinks
-Taplika
-TBHostSupport
-TelevisionFanatic
-Vosteran
 ZombieNewsAllmyapps
-Extreme Blocker
-gCXhpgaR
-kcgnmcabmjiadcldgbhcohfifnfbdcmo
-khnkojhcbbdmigplafncnjcfiggalkid
-makulitsidwe
-NoMore Ads
-UltraCoupon
-Unchecky
-WaowCeoupoon
-AnyProtectEx
-Fingertapps
-freegames4357
-GoldenGate
-PCDr
-ShopAtHome
-SoftwareUpdater
-Taplika
-PC Tools Registry Mechanic
-USTechSupport
-IMVU
-IMVUClient
-SpeedyPC Pro
-SpeedyPC Software
-ReguulArDDealsi
-Red AdBlocker
-Freemake
-DOwNSAeve
-CoupScannero
-download Manager
-FianeDealSooft
-FlexibleShhopppeer
-Priceless
-PuriceLesse
-Shopperz
-SOftCouap
-topbuayer
-WGANomTYuuq
-CinemaPlus-3.2cV16.05
-Crossbrowse
-Ebon
-Ebon Maintenance Service
-Edu App
-gmsd_us_581
-gmsd_us_585
-Goobzo
-GUPlayer
-Infonaut_1.10.0.13
-MixVideoPlayer
-mystarttb
-Optimizer Pro 3.91
-ORBTR
-SafeGuard
-SysFilesx
-WGANomTYuuq
-CompuClever
-LolyKey
-Driver Tool
-FlashBeat
-nlikcompbpfinbbonponkbjdbineclph
-CinemaPlus-3.2cV05.06
-gmsd_us_657
-MaxComputerCleaner_v17.642
-PrICeMeinus
-Run_Dregol
-speed browser
-Max Computer Cleaner
-MaxComputerCleaner
-BBItSaveoro
-BitaSaVer
-BitSauver
-Fancy Response
-Keep Awake
-LighterModulator
-NewTab Connect Homepage
-Ponyhoof
-RiightOfFerApp
-SalePlus
-SalePlusu
-Steam Trader Helper
-TAkeTheCoUUpoon
-TAkeThheoCoupon
-TakoeTheCouuPon
+Zoom Downloader

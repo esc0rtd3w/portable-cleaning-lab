@@ -1,11 +1,23 @@
+1DEA2C4A-8529-46b5-ACC0-C3873ED068E6
+22134214
 2f086fd2
 70F4EEDB-1367-4b4f-8247-3133551A741
-dd693f9b
+ApplicationHosting
 BringMeSports_1cService
 BrsHelper
+caa89563
+cae99edb
+caMyciloP
+Citdebudek
 CltMngSvc
+cmdidx
+CoupoonService
+CoupoonService64
 csrcc
+csrcc
+dd693f9b
 DefaultTabUpdate
+dfab5f36
 EbonMaintenance
 eLdxGPJOXCS
 Freemake Improver
@@ -13,44 +25,32 @@ globalUpdate
 globalUpdatem
 GorillaPrice
 gupdate
+hla
+idKDjbFQk
 IePlugin Services
+JisgcVoac
+Medlight
+mhla
 Orbiter
+pastaleadsupd
 pcCMService
 pcServiceHost
 SafeGuard Update Service
-SGUpdater
+Service Mgr PositiveFinds
 SftService
+SGUpdater
+shopperz Updater
 shopperz Updater
 SMUpdPlus
 SupraSavingsService64
 TelevisionFanaticService
 Update Edu App
-Util Edu App
-WeWatcherProxy
-Util snipsmart
-1DEA2C4A-8529-46b5-ACC0-C3873ED068E6
-CoupoonService
-csrcc
-shopperz Updater
-22134214
 Update Fragile Fixer
-UpdateCheck
-WajaIEnhancer Service
-Service Mgr PositiveFinds
 Update Mgr PositiveFinds
-Citdebudek
-CoupoonService64
-hla
-idKDjbFQk
-JisgcVoac
-mhla
-caa89563
-pastaleadsupd
-cae99edb
+UpdateCheck
+Util Edu App
+Util snipsmart
 uuvilbeor
+WajaIEnhancer Service
+WeWatcherProxy
 wolxyclofq
-ApplicationHosting
-caMyciloP
-cmdidx
-Medlight
-dfab5f36

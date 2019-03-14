@@ -1,80 +1,79 @@
+APworks
+ArcadeYum
+Astromenda
+avabvbyvyc
+avaxvavya
+BrowserHelper
+Chromatic Browser
+CleanerPro
+com
+Conduit
 Consumer Input
 Coupon Companion Plugin
+CRE
+Deal Vault
+DesktopTemperature
 DesktopTemperature
 DownloadTerms
 emaze
+encyclopediabritannicagamesbar
+Ention
+Fast Browser
+Flvto Youtube Downloader
+FlvtoYoutubeDownloader
+freegames197
+Gameo
 Games.com Toolbar
+Geckofx
+genienext
 globalUpdate
+gmsd_us_74
+Installer
+iplay_en
 Local_Weather_LLC
+Macroplant_LLC
+Max_Computer_Cleaner
 NexGenMediaPlayer
 Obrona Block Ads
 ospd_us_201
 ospd_us_210
 OurrarUdl
 Pay-By-Ads
+PC_Drivers_Headquarters
+PC_Drivers_Headquarters
 Pokki
-Pro_PC_Cleaner
 Pro PC Cleaner
+Pro_PC_Cleaner
+PutLockerDownloader
+Rainmaker_Software_Group_
 Rocket
+Setup1275339
 SevereWeatherAlerts
 SlimWare Utilities Inc
+SmartWeb
 SoftGrid Client
+SoftThinks
 SoftThinks
 Software Updater
 Software_Updater
 SoftwareUpdater
-SpeedFixTool
-TidyNetwork
-UpdateAdmin
-WeatherAlerts
-Zoom_Downloader
-Fast Browser
-Flvto Youtube Downloader
-FlvtoYoutubeDownloader
-genienext
-Macroplant_LLC
-PutLockerDownloader
 Solid State Networks
-WebBar
-ArcadeYum
-encyclopediabritannicagamesbar
-freegames197
-iplay_en
 SpeedAnalysis
+SpeedFixTool
 speedtest127
 speedtest199
-Astromenda
-Conduit
-CRE
 StormWatch
-Weather_Protector_LLC
-com
-PC_Drivers_Headquarters
-Workspace
-avaxvavya
-BrowserHelper
-Chromatic Browser
-CleanerPro
-com
-DesktopTemperature
-Gameo
-Geckofx
-gmsd_us_74
-Installer
-PC_Drivers_Headquarters
-SoftThinks
 Taplika
 TBHostSupport
 TelevisionFanatic
-Vosteran
-ZombieNews
-Deal Vault
+TidyNetwork
+UpdateAdmin
 USTechSupport
-Ention
-APworks
-Max_Computer_Cleaner
-Rainmaker_Software_Group_
-Setup1275339
-SmartWeb
+Vosteran
+Weather_Protector_LLC
+WeatherAlerts
+WebBar
 Windesk_Winsearch
-avabvbyvyc
+Workspace
+ZombieNews
+Zoom_Downloader
