@@ -14,14 +14,6 @@ set helpTask=99
 cls
 %cocolor% 0f
 echo %bannerText%
-
-echo.
-echo.
-%cocolor% 0a
-echo D) DONATE TO THE PCL PROJECT WITH PAYPAL
-%cocolor% 0d
-echo.
-
 echo.
 %cocolor% 0d
 echo.
@@ -55,9 +47,6 @@ if [%helpTask%]==[] goto helpMain
 if %helpTask%==X goto end
 if %helpTask%==x goto end
 
-if %helpTask%==D goto donate
-if %helpTask%==d goto donate
-
 if %helpTask% gtr 6 goto helpMain
 
 if %helpTask%==1 goto helpMain
@@ -66,13 +55,6 @@ if %helpTask%==3 goto keywords
 if %helpTask%==4 %displayVersionInfoExternal%
 if %helpTask%==5 %displayKnownIssuesExternal%
 if %helpTask%==6 %displayTodoListExternal%
-
-goto helpMain
-
-
-:donate
-
-start iexplore.exe "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3JU3WQS2P6ECJ"
 
 goto helpMain
 
