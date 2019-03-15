@@ -19,7 +19,7 @@ http://www.mediafire.com/file/h91mcnkjy2ktbqp/pcl-win-20190207.zip/file
 ![](https://i.imgur.com/yWxwV9z.png)
 ![](https://i.imgur.com/3qn1mik.png)
 ![](https://i.imgur.com/D6eHC5Z.png)
-![](https://i.imgur.com/j5RnDsb.png)
+![](https://i.imgur.com/SvayQAs.png)
 ![](https://i.imgur.com/n3B04Ed.png)
 
 
