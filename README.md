@@ -8,21 +8,21 @@ http://www.mediafire.com/file/h91mcnkjy2ktbqp/pcl-win-20190207.zip/file
 
 To Use: Extract "pcl-win" folder to the root of any media and run portable-cleaning-lab.cmd
 
-![](https://i.imgur.com/2i2xGmd.png)
-![](https://i.imgur.com/jUoHF2L.png)
-![](https://i.imgur.com/JAB1Jpg.png)
-![](https://i.imgur.com/VEryOnz.png)
-![](https://i.imgur.com/tu9pbRo.png)
-![](https://i.imgur.com/Vm3v58T.png)
-![](https://i.imgur.com/eafChx8.png)
-![](https://i.imgur.com/En3B3X5.png)
-![](https://i.imgur.com/hzNU6eQ.png)
-![](https://i.imgur.com/925RczR.png)
-![](https://i.imgur.com/yWxwV9z.png)
-![](https://i.imgur.com/3qn1mik.png)
-![](https://i.imgur.com/D6eHC5Z.png)
-![](https://i.imgur.com/SvayQAs.png)
-![](https://i.imgur.com/n3B04Ed.png)
+![](https://i.imgur.com/2i2xGmd.png)<br>
+![](https://i.imgur.com/jUoHF2L.png)<br>
+![](https://i.imgur.com/JAB1Jpg.png)<br>
+![](https://i.imgur.com/VEryOnz.png)<br>
+![](https://i.imgur.com/tu9pbRo.png)<br>
+![](https://i.imgur.com/Vm3v58T.png)<br>
+![](https://i.imgur.com/eafChx8.png)<br>
+![](https://i.imgur.com/En3B3X5.png)<br>
+![](https://i.imgur.com/hzNU6eQ.png)<br>
+![](https://i.imgur.com/925RczR.png)<br>
+![](https://i.imgur.com/yWxwV9z.png)<br>
+![](https://i.imgur.com/3qn1mik.png)<br>
+![](https://i.imgur.com/D6eHC5Z.png)<br>
+![](https://i.imgur.com/SvayQAs.png)<br>
+![](https://i.imgur.com/n3B04Ed.png)<br>
 
 
 Version History (Windows)
