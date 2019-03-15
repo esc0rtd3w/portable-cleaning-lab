@@ -6,6 +6,8 @@ Downloads:
 PCL Full Release:
 http://www.mediafire.com/file/h91mcnkjy2ktbqp/pcl-win-20190207.zip/file
 
+To Use: Extract "pcl-win" folder to the root of any media and run portable-cleaning-lab.cmd
+
 ![](https://i.imgur.com/2i2xGmd.png)
 ![](https://i.imgur.com/jUoHF2L.png)
 ![](https://i.imgur.com/JAB1Jpg.png)
