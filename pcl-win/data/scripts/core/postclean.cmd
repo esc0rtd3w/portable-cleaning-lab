@@ -12,29 +12,23 @@ echo.
 :: Pre-clean temp scanner auto files
 %rm% "%pclTempUser%\detectme.scanner.*"
 
-:: Quarantine files
-
-
-
-:: Other log and misc files
-%rm% %root%deltmh_log.log
-%rm% %root%kavremvr*.log
-%rm% %root%detekt.log
-
-:: Leftover file from x64dbg
-%rm% %root%snowman.ini
-
-
 %rm% "%windir%\temp\pcl.set"
 
 %bannerMenuDefault%
 
 echo Cleaning Up....
 echo.
-cd %root%
-cd ..
-%rm% sc-cleaner.txt
-cd %root%
+
+:: Other log and misc files
+%rm% %rootDrive%\deltmh_log.log
+%rm% %rootDrive%\kavremvr*.log
+%rm% %rootDrive%\detekt.log
+
+:: Leftover file from x64dbg
+%rm% %rootDrive%\snowman.ini
+%rm% %rootDrive%\sc-cleaner.txt
+
+%rm% %rootDrive%\wpeinit.log
 
 if defined pclTempMain %rm% "%pclTempMain%\*"
 if defined pclTempMain %rmsub% "%pclTempMain%"

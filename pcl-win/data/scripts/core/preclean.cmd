@@ -39,13 +39,16 @@ if exist "%pclTempMain%\targetDrive.id" %rm% "%pclTempMain%\targetDrive.id"
 if exist "%pclTempMain%\scannerUpdateMode.multi" %rm% "%pclTempMain%\scannerUpdateMode.multi"
 if exist "%pclTempMain%\scannerUpdateMode.default" %rm% "%pclTempMain%\scannerUpdateMode.default"
 
-:: Pre-clean log files and misc
-%rm% %root%deltmh_log.log
-%rm% %root%kavremvr*.log
-%rm% %root%detekt.log
+:: Other log and misc files
+%rm% %rootDrive%\deltmh_log.log
+%rm% %rootDrive%\kavremvr*.log
+%rm% %rootDrive%\detekt.log
 
 :: Leftover file from x64dbg
-%rm% %root%snowman.ini
+%rm% %rootDrive%\snowman.ini
+%rm% %rootDrive%\sc-cleaner.txt
+
+%rm% %rootDrive%\wpeinit.log
 
 cls
 echo Cleanup Finished!
