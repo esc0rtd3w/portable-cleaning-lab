@@ -17,7 +17,7 @@ set root=%~dp0
 :: Executing scripting to get drive root info relative to where main PCL script launches
 call "%root%data\scripts\core\get-drive-root.cmd"
 
-:: Set target drive
+:: Set target drive (default c: or x: if PE)
 call "%root%data\scripts\core\set-target-drive.cmd"
 
 :: Setting default variables for system check preparation
